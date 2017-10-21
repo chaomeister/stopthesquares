@@ -1,0 +1,23 @@
+.square{
+	height: 100px;
+	width: 100px;
+	background-color: #E8F9FF;
+	display: inline-block;
+	border-style: solid;
+	border-width: 1px;
+	position: absolute;
+	cursor: pointer;
+}
+.center{
+	text-align: center;
+}
+.button{
+/*	height: 500px;
+	line-height: 500px;*/
+	text-align: center;
+	font-size: 40px;
+}
+.point:hover{
+	cursor: pointer;
+	opacity: 0.7;
+}
